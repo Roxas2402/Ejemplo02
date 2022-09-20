@@ -1,4 +1,4 @@
-package pastrana.jero.ejemplo0ciclodevidadelasactividades;
+package pastrana.jero.ejemplo02ciclodevidadelasactividades;
 
 import org.junit.Test;
 
